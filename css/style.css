@@ -1,0 +1,31 @@
+#main-doc {
+   margin-right: 70px;
+   border-right: 2px solid;
+   width: 15%;
+   height: 100%;
+   margin-left: 0px;
+}
+
+#header-section {
+    border-block-end: 5px;
+    grid-column: 1/2;
+}
+
+.main-section {
+    display: block;
+    padding-left: 0px;
+    text-decoration: none;
+    border-top: 2px solid;
+  } 
+
+  p{
+    text-align: left;
+  }
+
+  /*
+  .main-section {
+     padding: 2px 5px;
+    width: 18%;
+    height: 10%;
+    border: 2px solid;
+  } */
